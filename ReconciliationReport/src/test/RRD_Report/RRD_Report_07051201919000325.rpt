@@ -1,0 +1,16 @@
+BatchNo = 39970 | Letter Type = CA-CURRACCNTCLOSURE | DocCount = 1
+BatchNo = 39971 | Letter Type = CA-OPENLETTER | DocCount = 29
+BatchNo = 39972 | Letter Type = CA-STATEMENT | DocCount = 46
+BatchNo = 39973 | Letter Type = DP-ACCOPENDEMAND | DocCount = 5
+BatchNo = 39974 | Letter Type = DP-DEPACCOPEN | DocCount = 1
+BatchNo = 39975 | Letter Type = DP-DEPACCOUNTCLOSURE | DocCount = 10
+BatchNo = 39976 | Letter Type = DP-LODGEREC | DocCount = 52
+BatchNo = 39977 | Letter Type = DP-REGSAVER | DocCount = 9
+BatchNo = 39978 | Letter Type = DP-STATEMENT | DocCount = 15
+BatchNo = 39979 | Letter Type = FL-FLEXAPP | DocCount = 2
+BatchNo = 39980 | Letter Type = NX-NX07SSIAMDCONF | DocCount = 1
+BatchNo = 39981 | Letter Type = OP-CHANGEADDNEW | DocCount = 9
+BatchNo = 39982 | Letter Type = OP-CHANGEADDOLD | DocCount = 9
+BatchNo = 39983 | Letter Type = OP-CHANGEOFEMAILADDR | DocCount = 12
+BatchNo = 39984 | Letter Type = OP-CHANGEPHONENUMBER | DocCount = 31
+BatchNo = 39985 | Letter Type = OP-WDCONFIRMATION | DocCount = 45

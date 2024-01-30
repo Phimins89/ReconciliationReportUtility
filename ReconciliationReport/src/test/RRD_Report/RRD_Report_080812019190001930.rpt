@@ -1,0 +1,15 @@
+BatchNo = 41661 | Letter Type = CA-CURRACCNTCLOSURE | DocCount = 3
+BatchNo = 41662 | Letter Type = CA-OPENLETTER | DocCount = 28
+BatchNo = 41663 | Letter Type = CA-STATEMENT | DocCount = 33
+BatchNo = 41664 | Letter Type = CA-TEENOPENLETTER | DocCount = 3
+BatchNo = 41665 | Letter Type = DP-ACCOPENDEMAND | DocCount = 3
+BatchNo = 41666 | Letter Type = DP-DEPACCOUNTCLOSURE | DocCount = 11
+BatchNo = 41667 | Letter Type = DP-DIRT01YN | DocCount = 1
+BatchNo = 41668 | Letter Type = DP-LODGEREC | DocCount = 55
+BatchNo = 41669 | Letter Type = DP-REGSAVER | DocCount = 10
+BatchNo = 41670 | Letter Type = DP-STATEMENT | DocCount = 25
+BatchNo = 41672 | Letter Type = OP-CHANGEADDNEW | DocCount = 36
+BatchNo = 41673 | Letter Type = OP-CHANGEADDOLD | DocCount = 36
+BatchNo = 41674 | Letter Type = OP-CHANGEOFEMAILADDR | DocCount = 12
+BatchNo = 41675 | Letter Type = OP-CHANGEPHONENUMBER | DocCount = 31
+BatchNo = 41676 | Letter Type = OP-WDCONFIRMATION | DocCount = 60
